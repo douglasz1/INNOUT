@@ -11,6 +11,5 @@ class User extends Model {
         'start_date',
         'end_date',
         'is_admin',
-
     ];
 }
